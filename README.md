@@ -1,4 +1,4 @@
-Hi 👋 My name is Hoang Phuoc (Edward)
+Hi 👋 My name is Hoang Phuoc (Feliks)
 =====================================
 
 Data Analyst/ Looker Developer
